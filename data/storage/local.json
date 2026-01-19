@@ -1,0 +1,250 @@
+{
+  "local-bazaar": {
+    "icon": "2",
+    "plugin": "2",
+    "template": "2",
+    "theme": "2",
+    "widget": "2"
+  },
+  "local-codelang": "感觉应该更进一步，用更高的视角，来自己找到【主规则】！！",
+  "local-dialogposition": {
+    "dialog-confirm": {
+      "height": 137,
+      "left": 600,
+      "top": 398,
+      "width": 520
+    },
+    "dialog-emojis": {
+      "height": 466,
+      "left": 113,
+      "top": 84,
+      "width": 368
+    },
+    "dialog-globalsearch": {
+      "height": 756,
+      "left": 154,
+      "top": 41,
+      "width": 1239
+    },
+    "dialog-historydoc": {
+      "height": 746,
+      "left": 103,
+      "top": 93,
+      "width": 1515
+    },
+    "dialog-rename": {
+      "height": 146,
+      "left": 493,
+      "top": 380,
+      "width": 520
+    },
+    "dialog-search": {
+      "height": 779,
+      "left": 441,
+      "top": 32,
+      "width": 850
+    },
+    "dialog-setting": {
+      "height": 840,
+      "left": 220,
+      "top": 46,
+      "width": 1280
+    }
+  },
+  "local-emojis": {
+    "currentTab": "emoji"
+  },
+  "local-exportpdf": {
+    "keepFold": false,
+    "landscape": false,
+    "marginBottom": 1,
+    "marginLeft": 0.54,
+    "marginRight": 0.54,
+    "marginTop": 1,
+    "marginType": "default",
+    "mergeSubdocs": false,
+    "pageSize": "A4",
+    "removeAssets": true,
+    "scale": 1,
+    "watermark": true
+  },
+  "local-fileposition": {
+    "20260120035328-0v6wp99": {
+      "endId": "20260120045405-zlmwt2q",
+      "rootId": "20260120035328-0v6wp99",
+      "scrollTop": 0,
+      "startId": "20260120045405-nufxw4s"
+    },
+    "20260120035445-5r9l9ko": {
+      "endId": "20260120045405-3t0vd9n",
+      "rootId": "20260120035445-5r9l9ko",
+      "scrollTop": 0,
+      "startId": "20260120045405-3t0vd9n"
+    },
+    "20260120035453-jo8s588": {
+      "endId": "20260120045405-sve1zm0",
+      "rootId": "20260120035453-jo8s588",
+      "scrollTop": 0,
+      "startId": "20260120045405-sve1zm0"
+    },
+    "20260120035510-9iklj1h": {
+      "endId": "20260120045405-omjz4y4",
+      "focusEnd": 15,
+      "focusId": "20260120045405-a4pkha8",
+      "focusStart": 15,
+      "rootId": "20260120035510-9iklj1h",
+      "scrollTop": 0,
+      "startId": "20260120045405-k48amdi"
+    },
+    "20260120035520-ub5chqj": {
+      "endId": "20260120035525-o53iprh",
+      "focusEnd": 19,
+      "focusId": "20260120045851-28u7529",
+      "focusStart": 19,
+      "rootId": "20260120035520-ub5chqj",
+      "scrollTop": 2000,
+      "startId": "20260120035525-inz3x60"
+    },
+    "20260120035531-q2an481": {
+      "endId": "20260120045405-ztdwpz9",
+      "focusEnd": 0,
+      "focusId": "20260120045405-2d13pcv",
+      "focusStart": 0,
+      "rootId": "20260120035531-q2an481",
+      "scrollTop": 0,
+      "startId": "20260120045405-ziy2u9d"
+    }
+  },
+  "local-filespaths": [
+    {
+      "notebookId": "20260120035323-ybbx4im",
+      "openPaths": [
+        "/20260120035453-jo8s588/20260120035531-q2an481.sy"
+      ]
+    }
+  ],
+  "local-fontstyles": [
+    "color​var(--b3-font-color13)",
+    "style1​​",
+    "style1​var(--b3-card-warning-background)​var(--b3-card-warning-color)",
+    "style1​var(--b3-card-error-background)​var(--b3-card-error-color)",
+    "clear​undefined",
+    "fontSize​16px",
+    "style1​var(--b3-card-success-background)​var(--b3-card-success-color)",
+    "color​var(--b3-font-color7)"
+  ],
+  "local-history": {
+    "notebookId": "%",
+    "operation": "all",
+    "sideDiffWidth": "256px",
+    "sideDocWidth": "256px",
+    "sideWidth": "256px",
+    "type": 0
+  },
+  "local-pdftheme": {
+    "annoColor": "var(--b3-pdf-background1)",
+    "dark": "dark",
+    "light": "light"
+  },
+  "local-plugin-docks": {
+    "kmind-plugin": {},
+    "mymind": {},
+    "siyuan-ai": {},
+    "siyuan-github-publish-plugin": {},
+    "siyuan-plugin-publisher": {},
+    "siyuan-sync-aware": {},
+    "sy-tomato-plugin": {}
+  },
+  "local-plugintopunpin": [],
+  "local-searchkeys": {
+    "col": "",
+    "colTab": "",
+    "keys": [
+      "卡片驱动",
+      "一年",
+      "",
+      "三花",
+      "格外",
+      "技法",
+      "海贼",
+      "被子",
+      "图式",
+      "死了",
+      "许多年后",
+      "西游",
+      "这么大的",
+      "罗翔",
+      "壮阔",
+      "运镜",
+      "壮",
+      "/",
+      "信息缺口",
+      "语义",
+      "吏事会",
+      "殃",
+      "转场",
+      "星星",
+      "手书",
+      "白字",
+      "字幕",
+      "语言技巧",
+      "小朋友",
+      "大人",
+      "3:4",
+      "知识",
+      "水浒",
+      "短的发布会",
+      "段子",
+      "软刀子",
+      "幽默",
+      "特质",
+      "圆润",
+      "记忆像",
+      "抿嘴",
+      "溜达",
+      "眯",
+      "滚",
+      "蜷",
+      "钻",
+      "吧唧",
+      "拽",
+      "老师",
+      "奶奶",
+      "第三方",
+      "绿幕",
+      "900",
+      "4",
+      "凡人",
+      "邱奇遇",
+      "中性",
+      "字体",
+      "抖音",
+      "王家卫",
+      "minimax",
+      "云泽",
+      "纪录",
+      "情绪"
+    ],
+    "layout": 0,
+    "layoutTab": 0,
+    "replaceKeys": [
+      "、",
+      "属性",
+      "5",
+      "满大",
+      "美好/悲伤",
+      "有趣",
+      "有趣、",
+      "泛称",
+      "叙事材料",
+      "高潮三句",
+      "--",
+      "",
+      " "
+    ],
+    "row": "317px",
+    "rowTab": "374px"
+  },
+  "local-zoom": 0.9,
+  "pdfjs.history": "{\"files\":[{\"fingerprint\":\"78d77b5e56dbb34899b7732cda2303b3\",\"sidebarView\":0,\"page\":9,\"zoom\":\"auto\",\"scrollLeft\":-19,\"scrollTop\":843,\"rotation\":0}]}"
+}
